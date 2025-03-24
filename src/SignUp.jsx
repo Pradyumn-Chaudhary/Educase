@@ -13,8 +13,8 @@ const SignUp = () => {
         </label>
         <input
           type="fullName"
-          placeholder="Enter FullName"
-          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
+          placeholder="Marry Doe"
+          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
 
@@ -24,8 +24,8 @@ const SignUp = () => {
         </label>
         <input
           type="phone"
-          placeholder="Enter Phone Number"
-          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
+          placeholder="Marry Doe"
+          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
 
@@ -35,8 +35,8 @@ const SignUp = () => {
         </label>
         <input
           type="email"
-          placeholder="Enter Email Address"
-          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
+          placeholder="Marry Doe"
+          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
 
@@ -46,8 +46,8 @@ const SignUp = () => {
         </label>
         <input
           type="password"
-          placeholder="Enter Password"
-          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
+          placeholder="Marry Doe"
+          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
 
@@ -57,8 +57,8 @@ const SignUp = () => {
         </label>
         <input
           type="company"
-          placeholder="Enter Company Name"
-          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
+          placeholder="Marry Doe"
+          className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
 
@@ -72,6 +72,7 @@ const SignUp = () => {
               type="radio"
               name="agency"
               value="yes"
+              checked 
               className="w-4 h-4 accent-[#6C25FF]"
             />
             <span className="text-[13px]">Yes</span>
