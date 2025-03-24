@@ -14,6 +14,7 @@ const SignUp = () => {
         <input
           type="fullName"
           placeholder="Marry Doe"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
@@ -25,6 +26,7 @@ const SignUp = () => {
         <input
           type="phone"
           placeholder="Marry Doe"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
@@ -36,6 +38,7 @@ const SignUp = () => {
         <input
           type="email"
           placeholder="Marry Doe"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
@@ -47,6 +50,7 @@ const SignUp = () => {
         <input
           type="password"
           placeholder="Marry Doe"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>
@@ -58,6 +62,7 @@ const SignUp = () => {
         <input
           type="company"
           placeholder="Marry Doe"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-3 outline-none mt-2 placeholder:text-black"
         />
       </div>

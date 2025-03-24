@@ -19,6 +19,7 @@ const SignIn = () => {
         <input
           type="email"
           placeholder="Enter email address"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
         />
       </div>
@@ -30,6 +31,7 @@ const SignIn = () => {
         <input
           type="password"
           placeholder="Enter password"
+          readOnly
           className="w-full h-[40px] border border-[#CBCBCB] rounded-[6px] px-2 outline-none mt-2"
         />
       </div>
