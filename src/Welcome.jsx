@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Welcome = () => {
   return (
-    <div className="flex flex-col justify-end items-start min-h-screen p-4">
+    <div className="flex flex-col justify-end items-start min-h-screen p-4 bg-[#F7F8F9]">
       <div className="w-[231px] h-[33px] text-left text-[28px] leading-[17px] font-medium text-[#1D2226] opacity-100">
         Welcome to PopX
       </div>
