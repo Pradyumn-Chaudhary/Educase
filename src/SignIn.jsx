@@ -2,7 +2,7 @@ import React from "react";
 
 const SignIn = () => {
   return (
-    <div className="flex flex-col items-start justify-start p-5 space-y-6 w-[375px] bg-[#F7F8F9]">
+    <div className="flex flex-col items-start justify-start p-5 space-y-6 w-[375px] bg-[#F7F8F9] min-h-screen">
       <h1 className="text-[28px] leading-[36px] font-medium text-[#1D2226]">
         Sign in to your <br /> PopX account
       </h1>

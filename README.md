@@ -11,6 +11,21 @@ You can access each page using the following links:
 - **Login Page**: [https://educase18.netlify.app/signin](https://educase18.netlify.app/signin)
 - **Profile Page**: [https://educase18.netlify.app/profile](https://educase18.netlify.app/profile)
 
+## 📸 Screenshots  
+Below are previews of each page:
+
+### **Welcome Page**
+![Welcome Page](screenshots/welcome.png)
+
+### **Create Account Page**
+![Signup Page](screenshots/signup.png)
+
+### **Login Page**
+![Login Page](screenshots/signin.png)
+
+### **Profile Page**
+![Profile Page](screenshots/profile.png)
+
 ## 📌 Features
 
 - Static UI with no backend.
